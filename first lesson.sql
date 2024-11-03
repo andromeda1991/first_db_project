@@ -69,7 +69,7 @@ create table if not exists proprietar_5
 	traieste boolean 
 );
 
-select * from proprietar_5
+--select * from proprietar_5
 	
 	
 	
