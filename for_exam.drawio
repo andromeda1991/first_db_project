@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Pagină-1" id="tk4yPKOGJURjmuizrjEW">
-    <mxGraphModel>
+    <mxGraphModel dx="2977" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-14" value="Police Inspectorate&amp;nbsp;&lt;div&gt;Timisoara&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-17" value="Territorial Services&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TM&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-18" value="Territorial Services&lt;div&gt;CS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-19" value="Territorial Services&lt;div&gt;MH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-20" value="Police Sector Sannicolau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-21" value="Police Sector&amp;nbsp;&lt;div&gt;Lunga&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-22" value="Police Sector Moravita" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-23" value="Police Sector&amp;nbsp;&lt;div&gt;Cruceni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-24" value="Police Sector&amp;nbsp;&lt;div&gt;Oravita&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-25" value="Police Sector Moldova Noua" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-26" value="Police Sector&amp;nbsp;&lt;div&gt;Naidas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-27" value="Police Sector&amp;nbsp;&lt;div&gt;Svinita&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-28" value="Police Sector&amp;nbsp;&lt;div&gt;Garla Mare&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-29" value="Police Sector&amp;nbsp;&lt;div&gt;Drobeta Turnu Severin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
