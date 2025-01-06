@@ -36,19 +36,19 @@
         <mxCell id="RzF3BET0M-9ud9dv6s0I-26" value="Police Sector&amp;nbsp;&lt;div&gt;Naidas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-32" value="Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-32" value="Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="730" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-33" value="Biroul&lt;div&gt;Supraceghere&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-33" value="Biroul&lt;div&gt;Supraceghere&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="720" y="-535.5" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-34" value="Biroul&lt;div&gt;Combatere infractiuni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-34" value="Biroul&lt;div&gt;Combatere infractiuni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="730" y="-425.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-35" value="Biroul&lt;div&gt;Ture serviciu&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-35" value="Biroul&lt;div&gt;Ture serviciu&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="720" y="-335.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-36" value="Biroul&lt;div&gt;Administrativ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-36" value="Biroul&lt;div&gt;Administrativ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="720" y="-235.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RzF3BET0M-9ud9dv6s0I-37" value="Employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -521,7 +521,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzF3BET0M-9ud9dv6s0I-220" value="Office" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="RzF3BET0M-9ud9dv6s0I-220" value="Office" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="840" y="1270" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RzF3BET0M-9ud9dv6s0I-221" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="RzF3BET0M-9ud9dv6s0I-220">
